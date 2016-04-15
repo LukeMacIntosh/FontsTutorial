@@ -6,6 +6,10 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
+/**
+ * Created by luke on 2016-04-13.
+ */
+
 public class CustomFont extends ApplicationAdapter {
     SpriteBatch batch;
     BitmapFont bmFont;
